@@ -12,7 +12,7 @@ I’m looking to collaborate projects that make use of <strong>PHP, JavaScript, 
 <h3>Contact Me ::</h3>
 <a href="https://github.com/rakibislamdev" target="_blank"><img src="https://img.shields.io/badge/-rakibislamdev-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/rakibislamdev" target="_blank"><img src="https://img.shields.io/badge/-rakibislamdev-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/rakibislamdev" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://www.instagram.com/rakibislamdev" target="_blank"><img src="https://img.shields.io/badge/-rakibislamdev-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="https://twitter.com/rakibislamdev" target="_blank"><img src="https://img.shields.io/badge/-rakibislamdev-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 <a href="mailto:rakibislamdev@gmail.com"><img src="https://img.shields.io/badge/-rakibislamdev-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
