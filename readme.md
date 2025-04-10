@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rakib Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Md Rakib <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Full Stack JavaScript Developer | PHP Enthusiast | Back-end Focused</h3>
 
 ---
