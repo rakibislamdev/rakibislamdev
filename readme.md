@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 Passionate about building web apps, APIs, and back-end systems.
-- 💡 I specialize in **Node.js**, **React**, **MongoDB**, and **PHP (Laravel)**.
+- 💡 I specialize in **Node.js**, **React**, **React Native**, **Electron.js**, **MongoDB**, and **PHP (Laravel)**.
 - 🔄 Constantly learning & experimenting with new technologies.
 - 🧩 Comfortable working with **MySQL**, **PostgreSQL**, **MariaDB**, and **MongoDB**.
 - 🛠️ Experience with **JWT**, **WebSockets**, and **real-time apps**.
@@ -17,32 +17,39 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-#### 🧠 Languages & Frameworks
+#### 🧠 Languages & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=flat-square&logo=electron&logoColor=9FEAF9" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+#### 💾 Databases  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
 
-#### 💾 Databases
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=for-the-badge&logo=mariadb)
-
-#### 🔧 Tools & DevOps
-
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
-![cPanel](https://img.shields.io/badge/-cPanel-black?style=for-the-badge&logo=cpanel)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-black?style=for-the-badge&logo=phpmyadmin)
+#### 🔧 Tools & DevOps  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
 ---
 
